@@ -1,68 +1,70 @@
 # kanaemi-brand
 
-Kanaemi のロゴと、その使い方の決まり。
+English | [日本語](README.ja.md)
 
-ロゴは自由なライセンスではない。Kanaemi を指すためにだけ、改変せずに使える。条件は [LICENSE](LICENSE) にある。
+The Kanaemi logo and the rules for using it.
 
-## ロゴ
+The logo is **not** under an open source license. You may use it, unmodified, only to refer to Kanaemi. The binding terms are in [LICENSE](LICENSE); this README explains them, and where the two differ, LICENSE governs. The Japanese version is a translation.
 
-ロゴは、キーキャップに「か」と笑みの弧を入れたシンボルと、「kanaemi」のワードマークでできている。ファイルは `logo/` にある。
+## Logo
 
-### 意味
+The logo is a symbol — a keycap holding the kana 「か」 and a smiling arc — and the wordmark "kanaemi". The files are in `logo/`.
 
-- キーキャップ：入力のための道具であること。どの OS のキーボードにも共通する形で、OS を選ばないことも表す。
-- 「か」：名前の前半、kana（かな）。
-- 笑みの弧：名前の後半、emi（笑み）。emi を逆から読むと ime になる。
+### Meaning
 
-ワードマークは「kana」と「emi」を色分けし、名前が 2 つの部分からできていることを示す。
+- Keycap: a tool for typing. Its shape is common to the keyboards of every OS, so it also stands for not tying Kanaemi to one OS.
+- 「か」: the first half of the name, *kana*.
+- Smiling arc: the second half, *emi* (笑み, "smile"). Read backwards, *emi* is *ime*.
 
-### 種類
+The wordmark colors "kana" and "emi" apart to show that the name is made of two words.
 
-| 種類                   | ライト | ダーク | 単色（黒） | 単色（白） | 用途 |
-| ---------------------- | ------ | ------ | ---------- | ---------- | ---- |
-| シンボル（通常版）     | <img src="logo/kanaemi-icon.svg" alt="シンボル（通常版・ライト）" width="64"> | <img src="logo/kanaemi-icon-dark.svg" alt="シンボル（通常版・ダーク）" width="64"> | <img src="logo/kanaemi-icon-mono-black.svg" alt="シンボル（通常版・単色の黒）" width="64"> | <img src="logo/kanaemi-icon-mono-white.svg" alt="シンボル（通常版・単色の白）" width="64"> | 32px 以上のアイコン |
-| シンボル（小サイズ版） | <img src="logo/kanaemi-icon-small.svg" alt="シンボル（小サイズ版・ライト）" width="32"> | <img src="logo/kanaemi-icon-small-dark.svg" alt="シンボル（小サイズ版・ダーク）" width="32"> | <img src="logo/kanaemi-icon-small-mono-black.svg" alt="シンボル（小サイズ版・単色の黒）" width="32"> | <img src="logo/kanaemi-icon-small-mono-white.svg" alt="シンボル（小サイズ版・単色の白）" width="32"> | 24px 以下のアイコン |
-| 縦組みロゴ             | <img src="logo/kanaemi-logo-vertical.svg" alt="縦組みロゴ（ライト）" width="120"> | <img src="logo/kanaemi-logo-vertical-dark.svg" alt="縦組みロゴ（ダーク）" width="120"> | — | — | 表紙 |
-| 横組みロゴ             | <img src="logo/kanaemi-logo-horizontal.svg" alt="横組みロゴ（ライト）" width="160"> | <img src="logo/kanaemi-logo-horizontal-dark.svg" alt="横組みロゴ（ダーク）" width="160"> | — | — | ヘッダー、バナー |
+### Variants
 
-### 色
+| Variant              | Light | Dark | Mono black | Mono white | Use |
+| -------------------- | ----- | ---- | ---------- | ---------- | --- |
+| Symbol (regular)     | <img src="logo/kanaemi-icon.svg" alt="Symbol, regular, light" width="64"> | <img src="logo/kanaemi-icon-dark.svg" alt="Symbol, regular, dark" width="64"> | <img src="logo/kanaemi-icon-mono-black.svg" alt="Symbol, regular, mono black" width="64"> | <img src="logo/kanaemi-icon-mono-white.svg" alt="Symbol, regular, mono white" width="64"> | Icons at 32px and above |
+| Symbol (small)       | <img src="logo/kanaemi-icon-small.svg" alt="Symbol, small, light" width="32"> | <img src="logo/kanaemi-icon-small-dark.svg" alt="Symbol, small, dark" width="32"> | <img src="logo/kanaemi-icon-small-mono-black.svg" alt="Symbol, small, mono black" width="32"> | <img src="logo/kanaemi-icon-small-mono-white.svg" alt="Symbol, small, mono white" width="32"> | Icons at 24px and below |
+| Vertical logo        | <img src="logo/kanaemi-logo-vertical.svg" alt="Vertical logo, light" width="120"> | <img src="logo/kanaemi-logo-vertical-dark.svg" alt="Vertical logo, dark" width="120"> | — | — | Covers |
+| Horizontal logo      | <img src="logo/kanaemi-logo-horizontal.svg" alt="Horizontal logo, light" width="160"> | <img src="logo/kanaemi-logo-horizontal-dark.svg" alt="Horizontal logo, dark" width="160"> | — | — | Headers, banners |
 
-| 要素                   | ライト  | ダーク  |
-| ---------------------- | ------- | ------- |
-| キーの枠、「か」、kana | #1D2433 | #E8EAF0 |
-| 笑み、emi              | #D9502E | #F2704B |
-| かなえみ（補助）       | #5A6272 | #A3AAB8 |
+### Colors
 
-### 書体
+| Element                         | Light   | Dark    |
+| ------------------------------- | ------- | ------- |
+| Keycap outline, 「か」, "kana"   | #1D2433 | #E8EAF0 |
+| Smile, "emi"                    | #D9502E | #F2704B |
+| かなえみ (secondary)             | #5A6272 | #A3AAB8 |
 
-書体はどちらも SIL Open Font License 1.1 で、ロゴの文字として使える。SVG の文字はアウトライン化してあるので、書体を入れていない環境でも同じ形で表示される。
+### Typefaces
 
-| 要素               | 書体                                                                           |
-| ------------------ | ------------------------------------------------------------------------------ |
-| kanaemi            | [Quicksand](https://github.com/google/fonts/tree/main/ofl/quicksand) Bold        |
-| 「か」、かなえみ   | [Zen Maru Gothic](https://github.com/google/fonts/tree/main/ofl/zenmarugothic) Bold（小サイズ版の「か」は Black） |
+Both typefaces are under the SIL Open Font License 1.1 and may be used for logo lettering. The text in the SVGs is outlined, so it renders the same where the typefaces are not installed.
 
-## 使ってよいこと
+| Element              | Typeface |
+| -------------------- | -------- |
+| kanaemi              | [Quicksand](https://github.com/google/fonts/tree/main/ofl/quicksand) Bold |
+| 「か」, かなえみ      | [Zen Maru Gothic](https://github.com/google/fonts/tree/main/ofl/zenmarugothic) Bold (Black for 「か」 in the small symbol) |
 
-Kanaemi そのものを指すためなら、許可を取らずに使ってよい。
+## You may
 
-- Kanaemi を紹介する記事、ブログ、動画、スライド
-- Kanaemi へのリンクやダウンロードの案内
-- Kanaemi の配布物や、Kanaemi の公式の資料
+Use the logo without asking, as long as it refers to Kanaemi itself:
 
-## 使ってはいけないこと
+- in articles, blog posts, videos and slides about Kanaemi;
+- in links to Kanaemi or instructions for downloading it;
+- in Kanaemi's own releases and official materials.
 
-- ロゴを改変する（下の「使うときの決まり」に反する変更も含む）
-- Kanaemi 以外の製品、サービス、プロジェクトのロゴやアイコンとして使う。Kanaemi から派生したものも含む
-- Kanaemi の作者が後援、提携、保証しているように見せる
-- ロゴを商品にして売る
+## You may not
 
-ここにない使い方をしたいときは、作者に問い合わせてほしい。
+- modify the logo, including any change that breaks the rules below;
+- use it as, or as part of, the logo or icon of any other product, service or project, including ones derived from Kanaemi;
+- suggest that Kanaemi's authors sponsor, endorse or are affiliated with you or your product;
+- sell the logo, or put it on merchandise for sale.
 
-## 使うときの決まり
+For any other use, ask the author first.
 
-- 24px 以下では小サイズ版を使う。通常版の細い線は、小さく表示すると潰れる。
-- メニューバーのように単色のアイコンが慣例の場所では、単色版を使う。
-- 縦横比を変えて伸縮させない。
-- ここにない色に変えない。
-- シンボルとワードマークの位置関係や比率を変えない。
+## Rules for use
+
+- At 24px and below, use the small symbol. The thin lines of the regular one blur at small sizes.
+- Where monochrome icons are the convention, such as a menu bar, use a mono variant.
+- Do not stretch or squash it; keep the aspect ratio.
+- Do not recolor it with colors not listed here.
+- Do not change the placement or proportions of the symbol and the wordmark.
