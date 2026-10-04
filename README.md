@@ -4,7 +4,7 @@ English | [日本語](README.ja.md)
 
 The Kanaemi logo and the rules for using it.
 
-The logo is **not** under an open source license. You may use it, unmodified, only to refer to Kanaemi. The binding terms are in [LICENSE](LICENSE); this README explains them, and where the two differ, LICENSE governs. The Japanese version is a translation.
+The Kanaemi name and logo are **not** under an open source license. How you may use them is set out in the [Kanaemi Trademark Policy](TRADEMARKS.md); in short, you may use them to refer to Kanaemi itself, but not to name or brand anything else. This README describes the logo and how to display it. The Japanese versions of these documents are translations; the English versions govern.
 
 ## Logo
 
@@ -44,24 +44,9 @@ Both typefaces are under the SIL Open Font License 1.1 and may be used for logo 
 | kanaemi              | [Quicksand](https://github.com/google/fonts/tree/main/ofl/quicksand) Bold |
 | 「か」, かなえみ      | [Zen Maru Gothic](https://github.com/google/fonts/tree/main/ofl/zenmarugothic) Bold (Black for 「か」 in the small symbol) |
 
-## You may
+## Rules for display
 
-Use the logo without asking, as long as it refers to Kanaemi itself:
-
-- in articles, blog posts, videos and slides about Kanaemi;
-- in links to Kanaemi or instructions for downloading it;
-- in Kanaemi's own releases and official materials.
-
-## You may not
-
-- modify the logo, including any change that breaks the rules below;
-- use it as, or as part of, the logo or icon of any other product, service or project, including ones derived from Kanaemi;
-- suggest that Kanaemi's authors sponsor, endorse or are affiliated with you or your product;
-- sell the logo, or put it on merchandise for sale.
-
-For any other use, ask the author first.
-
-## Rules for use
+These rules apply on top of the [Kanaemi Trademark Policy](TRADEMARKS.md), which says when you may use the logo at all.
 
 - At 24px and below, use the small symbol. The thin lines of the regular one blur at small sizes.
 - Where monochrome icons are the convention, such as a menu bar, use a mono variant.
