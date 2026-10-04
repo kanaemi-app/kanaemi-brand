@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Renders every SVG in logo/ into png/ as <name>-<width>x<height>.png.
-# Needs rsvg-convert and oxipng; without them on PATH, run:
-#   nix shell nixpkgs#librsvg nixpkgs#oxipng -c scripts/png.sh
+# Needs rsvg-convert and oxipng; the Nix dev shell has both:
+#   nix develop -c scripts/png.sh
 set -euo pipefail
 
 root="$(cd "$(dirname "$0")/.." && pwd)"
