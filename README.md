@@ -8,7 +8,7 @@ The Kanaemi name and logo are **not** under an open source license. How you may 
 
 ## Logo
 
-The logo is a symbol — a keycap holding the kana 「か」 and a smiling arc — and the wordmark "kanaemi". The files are in `logo/`.
+The logo is a symbol — a keycap holding the kana 「か」 and a smiling arc — and the wordmark "kanaemi". The SVG files in `logo/` are the originals. `png/` has each of them rendered at several sizes with a transparent background, named `<name>-<width>x<height>.png`; `scripts/png.sh` makes them from the SVGs.
 
 ### Meaning
 

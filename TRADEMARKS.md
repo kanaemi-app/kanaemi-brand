@@ -25,7 +25,7 @@ This Policy covers the following marks, collectively the "Marks", whether or not
    | Kanaemi   | input method software   |
    | かなえみ  | input method software   |
 
-2. The logos in the `logo/` directory of this repository, including the symbol (a keycap holding 「か」 and a smiling arc), the "kanaemi" wordmark, and their combinations (the "Logos").
+2. The logos in the `logo/` and `png/` directories of this repository, including the symbol (a keycap holding 「か」 and a smiling arc), the "kanaemi" wordmark, and their combinations (the "Logos").
 
 ## Universal considerations for all uses
 
