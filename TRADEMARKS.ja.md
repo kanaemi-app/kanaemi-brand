@@ -111,8 +111,8 @@
 
 ## 不適切な使用の報告と許可の申し込み
 
-本マークが紛らわしい、または人を誤らせる形で使われているのを見つけたとき、本ポリシーについて質問があるとき、本ポリシーにない使い方をしたいときは、https://github.com/kanaemi-app/kanaemi-brand/issues に issue を立ててほしい。
+本マークが紛らわしい、または人を誤らせる形で使われているのを見つけたとき、本ポリシーについて質問があるとき、本ポリシーにない使い方をしたいときは、[このリポジトリの issue](https://github.com/kanaemi-app/kanaemi-brand/issues) を立ててほしい。
 
 ---
 
-本ポリシーは Model Trademark Guidelines（www.modeltrademarkguidelines.org）をもとに、Creative Commons Attribution 3.0 Unported ライセンス（https://creativecommons.org/licenses/by/3.0/）のもとで作ったものである。Kanaemi プロジェクトに合わせて短くし、変更を加えている。
+本ポリシーは [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org) をもとに、[Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) ライセンスのもとで作ったものである。Kanaemi プロジェクトに合わせて短くし、変更を加えている。

@@ -109,8 +109,8 @@ You may not change the Logos except to scale them proportionally. Do not add dec
 
 ## Reporting misuse and asking for permission
 
-If you see the Marks used in a confusing or misleading way, have questions about this Policy, or want to use the Marks in a way it does not cover, open an issue at https://github.com/kanaemi-app/kanaemi-brand/issues.
+If you see the Marks used in a confusing or misleading way, have questions about this Policy, or want to use the Marks in a way it does not cover, open an [issue in this repository](https://github.com/kanaemi-app/kanaemi-brand/issues).
 
 ---
 
-This Policy is adapted from the Model Trademark Guidelines, available at www.modeltrademarkguidelines.org, used under a Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/). It has been shortened and changed to fit the Kanaemi project.
+This Policy is adapted from the [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), available at www.modeltrademarkguidelines.org, used under a [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license. It has been shortened and changed to fit the Kanaemi project.
